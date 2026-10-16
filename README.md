@@ -1,4 +1,4 @@
-# tts-overlay
+# tts-gtk4
 
 A square, pixel-styled text-to-speech window for Arch Linux + Hyprland, written in Rust
 (GTK4). Speech is generated locally with ONNX Runtime and can run on an NVIDIA GPU via CUDA.
