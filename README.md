@@ -1,5 +1,7 @@
 # tts-gtk4
 
+**A vibecoded TTS overlay for vibemade videos**
+
 A square, pixel-styled text-to-speech window for Arch Linux + Hyprland, written in Rust
 (GTK4). Speech is generated locally with ONNX Runtime and can run on an NVIDIA GPU via CUDA.
 Memory use is kept small: the CUDA arena is capped at ~1.5 GB, so it fits cards with 8 GB VRAM or less.
